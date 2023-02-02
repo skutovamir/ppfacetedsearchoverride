@@ -1,0 +1,16 @@
+{
+    "name": "profipresta/ppfacetedsearchoverride",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "PrestaShop\\Module\\FacetedSearch\\Adapter\\": "src/Adapter"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miroslava Škutová",
+            "email": "skutova.mir@outlook.com"
+        }
+    ],
+    "require": {}
+}
